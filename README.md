@@ -1,5 +1,8 @@
 ![Gray and orange Twitter Post Header (2)](https://user-images.githubusercontent.com/89813278/212554533-cc85de08-cb79-4c8c-b365-8b27cc8da4b5.png)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cubewebs.cubewebs)
+[![HitCount](http://hits.dwyl.com/cubewebs/ayushkumar-25cubewebs/cubewebs.svg)](http://hits.dwyl.com/cubewebs/ayushkumar-25cubewebs/cubewebs)
+
 
 ### Tech & Tools Preference
 
